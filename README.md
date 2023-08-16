@@ -3,7 +3,7 @@ I'm Favour 😊
 <!--
 **Lloyd-the-dev/Lloyd-the-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on a daily logging with php and javascript 
 - 🌱 I’m currently learning Php, Mysql and React
@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about anything Javascript
 - 📫 How to reach me: @ojoore35@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: 
--->
+- 😄 Pronouns: He/Him
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Lloyd-the-dev)](https://git.io/streak-stats)
 
