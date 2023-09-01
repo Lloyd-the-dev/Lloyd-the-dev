@@ -5,7 +5,6 @@ I'm Favour 😊
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on a daily logging App with php and javascript 
 - 🌱 I’m currently learning Php, Mysql and React
 - 👯 I’m looking to collaborate on anything web development
 - 💬 Ask me about anything Javascript
