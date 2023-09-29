@@ -14,5 +14,4 @@ Here are some ideas to get you started: -->
 <img src="https://user-images.githubusercontent.com/74038190/240308118-6f28d73e-0d7e-4a6c-8ddf-bb24b69a71c0.gif" style="height: 600px" />
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Lloyd-the-dev&theme=dracula)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Lloyd-the-dev&theme=dark)](https://git.io/streak-stats)
