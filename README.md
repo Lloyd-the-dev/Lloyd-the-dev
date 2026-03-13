@@ -70,6 +70,7 @@ An **AI-powered financial document interpreter** that extracts key figures and e
 A full web application for managing toner stock, handling request workflows, and admin approvals.
 
 **Tech:** PHP • Javascript • MySQL
+
 ---
 
 ## 🌱 SoilMate
@@ -85,6 +86,7 @@ A plant matching web application that helps users find the perfect plants for th
 An **Intelligent Learning Management System** with comprehensive course and student management features.
 
 **Tech:** PHP • Javascript • MySQL
+
 ---
 
 ## 📊 GitHub Stats
