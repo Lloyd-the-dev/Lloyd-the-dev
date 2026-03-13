@@ -2,17 +2,17 @@
 
 💻 **Full-Stack Developer | React • Next.js • TypeScript • PHP • MySQL**
 
-I enjoy building practical web applications and systems that solve real-world problems.
-My focus is on creating **efficient platforms, internal tools, and user-friendly web experiences**.
+I build modern web applications and upgrade existing websites to be faster, cleaner, and more user-friendly.
+I particularly enjoy **improving website UX, building internal tools, and developing scalable web platforms.**
 
 ---
 
 ## 🚀 About Me
 
 * 🎓 BSc Computer Science student at Trinity University, Lagos
-* 🛠 Full-stack developer with experience building real operational systems
-* ⚡ Passionate about automation, clean UI/UX, and scalable web applications
-* 🤝 Open to collaborating on interesting web development projects
+* ⚡ Passionate about building practical systems that solve real problems
+* 🛠 Experienced in modern frontend frameworks and backend systems
+* 🌐 Particularly skilled at **website upgrades, UX improvements, and ecommerce platforms**
 
 ---
 
@@ -20,10 +20,10 @@ My focus is on creating **efficient platforms, internal tools, and user-friendly
 
 ### Frontend
 
-* JavaScript (ES6+)
 * **TypeScript**
 * **React**
 * **Next.js**
+* JavaScript (ES6+)
 * HTML5
 * CSS3
 * Tailwind CSS
@@ -33,32 +33,58 @@ My focus is on creating **efficient platforms, internal tools, and user-friendly
 
 * PHP
 * MySQL
+* Supabase
 * REST APIs
 
 ### Tools & Technologies
 
 * Git & GitHub
 * Vercel
+* Groq LLaMA
 * Excel (Data Analysis & Automation)
 * Swiper.js
 * AJAX
 
 ---
 
-## 🧩 Projects I've Worked On
+# 🚀 Featured Projects
+
+## 🌿 Plant Pal PWA
+
+A **Progressive Web App** that helps plant owners care for their plants with smart reminders and plant care tracking.
+
+**Tech:** Next.js • Supabase • TypeScript • Tailwind
+
+---
+
+## 📄 Clear Doc
+
+An **AI-powered financial document interpreter** that extracts key figures and explains complex financial documents in plain English.
+
+**Tech:** Next.js • TypeScript • Groq LLaMA • unpdf
+
+---
+
 
 📦 **Toner Inventory Management System**
 A full web application for managing toner stock, handling request workflows, and admin approvals.
 
-📄 **Invoice Management Platform**
-A system for storing, organizing, and downloading invoice PDFs from a centralized database.
+**Tech:** PHP • Javascript • MySQL
+---
 
-🧾 **Cancelled Invoice Archive System**
-An internal tool developed to automate the storage and retrieval of cancelled invoices.
+## 🌱 SoilMate
 
-⚡ **React + Tailwind Invoice Generator**
-A modern interface for quickly generating and managing invoices.
+A plant matching web application that helps users find the perfect plants for their living spaces.
 
+**Tech:** Next.js • TypeScript • Tailwind
+
+---
+
+## 🎓 ILMS
+
+An **Intelligent Learning Management System** with comprehensive course and student management features.
+
+**Tech:** PHP • Javascript • MySQL
 ---
 
 ## 📊 GitHub Stats
@@ -69,17 +95,8 @@ A modern interface for quickly generating and managing invoices.
 
 ## 📫 Connect With Me
 
-📧 **Email:** [ojoore35@gmail.com](mailto:ojoore35@gmail.com)
+📧 Email: **[ojoore35@gmail.com](mailto:ojoore35@gmail.com)**
 
 ---
 
-⭐ *I enjoy building clean, efficient systems that make workflows simpler and more productive.*
-
-
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript)
-![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Lloyd-the-dev&theme=dark)](https://git.io/streak-stats)
+⭐ *I enjoy building clean, efficient systems and transforming existing websites into modern, high-performing platforms.*
