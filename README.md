@@ -65,8 +65,8 @@ An **AI-powered financial document interpreter** that extracts key figures and e
 
 ---
 
+## 📦 Toner Inventory Management System
 
-📦 **Toner Inventory Management System**
 A full web application for managing toner stock, handling request workflows, and admin approvals.
 
 **Tech:** PHP • Javascript • MySQL
